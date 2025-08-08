@@ -1,6 +1,6 @@
 // src/assets/component/nav.jsx
 import React from "react";
-import "./nav.css"; // Optional for styling
+import "./Nav.css"; // Optional for styling
 
 const Nav = () => {
   return (
