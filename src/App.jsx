@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import "leaflet/dist/leaflet.css";
+// import "leaflet/dist/leaflet.css";
 import Nav from "./assets/component/Nav.jsx";
 import {  BadgeAlert } from "./assets/component/BadgeAlert.js"; 
-
+import 'leaflet/dist/leaflet.css';
 
 import {  BadgeCheck } from "./assets/component/BadgeCheck.js"; 
 import { AppWindowMac } from "./assets/component/AppWindowMac.js";
